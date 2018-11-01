@@ -1,0 +1,1 @@
+2018-11-01 09:39:45	4m 46s	angry_elion	OK	dc854d3d81d4dd78a930b6ecd7941b6f	f63c013b-e875-48e0-8dae-819a617eb1cb	nextflow run qc.nf --fastq ../../asstest/fastq/SRR102707*_{1,2}* -profile docker
